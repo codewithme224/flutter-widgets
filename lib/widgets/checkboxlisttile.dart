@@ -26,6 +26,7 @@ class _CheckBoxListTileState extends State<CheckBoxListTile> {
               _isChecked = newValue;
             });
           },
+          
           activeColor: Colors.orangeAccent,
           checkColor: Colors.white,
           tileColor: Colors.black12,
